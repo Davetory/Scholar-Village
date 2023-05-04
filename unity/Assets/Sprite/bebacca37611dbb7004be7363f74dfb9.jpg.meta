@@ -1,0 +1,7608 @@
+fileFormatVersion: 2
+guid: 013934c4ea1e78244a591b68583a1eab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6887313024536328770
+    second: bebacca37611dbb7004be7363f74dfb9_0
+  - first:
+      213: -8249012613140522953
+    second: bebacca37611dbb7004be7363f74dfb9_1
+  - first:
+      213: 4896793067815923619
+    second: bebacca37611dbb7004be7363f74dfb9_2
+  - first:
+      213: 1388194411798837972
+    second: bebacca37611dbb7004be7363f74dfb9_3
+  - first:
+      213: 1796733223450195901
+    second: bebacca37611dbb7004be7363f74dfb9_4
+  - first:
+      213: 631660236256247233
+    second: bebacca37611dbb7004be7363f74dfb9_5
+  - first:
+      213: 4460036770533332925
+    second: bebacca37611dbb7004be7363f74dfb9_6
+  - first:
+      213: -3382613070337572565
+    second: bebacca37611dbb7004be7363f74dfb9_7
+  - first:
+      213: 8063641562136682502
+    second: bebacca37611dbb7004be7363f74dfb9_8
+  - first:
+      213: 4602353657364313301
+    second: bebacca37611dbb7004be7363f74dfb9_9
+  - first:
+      213: -42807420605810376
+    second: bebacca37611dbb7004be7363f74dfb9_10
+  - first:
+      213: -318987740140601506
+    second: bebacca37611dbb7004be7363f74dfb9_11
+  - first:
+      213: 4438536142140259348
+    second: bebacca37611dbb7004be7363f74dfb9_12
+  - first:
+      213: -4287931840887269905
+    second: bebacca37611dbb7004be7363f74dfb9_13
+  - first:
+      213: -2311778836919119252
+    second: bebacca37611dbb7004be7363f74dfb9_14
+  - first:
+      213: -6881656744322771595
+    second: bebacca37611dbb7004be7363f74dfb9_15
+  - first:
+      213: -5581061344968825490
+    second: bebacca37611dbb7004be7363f74dfb9_16
+  - first:
+      213: -2905545656829342711
+    second: bebacca37611dbb7004be7363f74dfb9_17
+  - first:
+      213: 8284055533696041983
+    second: bebacca37611dbb7004be7363f74dfb9_18
+  - first:
+      213: -3999933360256517296
+    second: bebacca37611dbb7004be7363f74dfb9_19
+  - first:
+      213: 6438927990785229148
+    second: bebacca37611dbb7004be7363f74dfb9_20
+  - first:
+      213: -749896180840263448
+    second: bebacca37611dbb7004be7363f74dfb9_21
+  - first:
+      213: -8772387490962548474
+    second: bebacca37611dbb7004be7363f74dfb9_22
+  - first:
+      213: -1554966505773665346
+    second: bebacca37611dbb7004be7363f74dfb9_23
+  - first:
+      213: -4495998256216473055
+    second: bebacca37611dbb7004be7363f74dfb9_24
+  - first:
+      213: 549847068292666353
+    second: bebacca37611dbb7004be7363f74dfb9_25
+  - first:
+      213: -6380829060637358872
+    second: bebacca37611dbb7004be7363f74dfb9_26
+  - first:
+      213: 6346075851257177263
+    second: bebacca37611dbb7004be7363f74dfb9_27
+  - first:
+      213: 1533091877713436988
+    second: bebacca37611dbb7004be7363f74dfb9_28
+  - first:
+      213: 1831749538661073426
+    second: bebacca37611dbb7004be7363f74dfb9_29
+  - first:
+      213: -1408655430565229676
+    second: bebacca37611dbb7004be7363f74dfb9_30
+  - first:
+      213: -1465645442883190583
+    second: bebacca37611dbb7004be7363f74dfb9_31
+  - first:
+      213: 568583442662335399
+    second: bebacca37611dbb7004be7363f74dfb9_32
+  - first:
+      213: -383320317820375930
+    second: bebacca37611dbb7004be7363f74dfb9_33
+  - first:
+      213: -8678897194191352621
+    second: bebacca37611dbb7004be7363f74dfb9_34
+  - first:
+      213: 5798472766638498778
+    second: bebacca37611dbb7004be7363f74dfb9_35
+  - first:
+      213: -5833720549390380700
+    second: bebacca37611dbb7004be7363f74dfb9_36
+  - first:
+      213: 4151893892758804384
+    second: bebacca37611dbb7004be7363f74dfb9_37
+  - first:
+      213: -4685704762811660948
+    second: bebacca37611dbb7004be7363f74dfb9_38
+  - first:
+      213: -7606056588750885257
+    second: bebacca37611dbb7004be7363f74dfb9_39
+  - first:
+      213: 7477785906636017183
+    second: bebacca37611dbb7004be7363f74dfb9_40
+  - first:
+      213: -1845443039900862864
+    second: bebacca37611dbb7004be7363f74dfb9_41
+  - first:
+      213: -9151182756802745972
+    second: bebacca37611dbb7004be7363f74dfb9_42
+  - first:
+      213: 520184624742119714
+    second: bebacca37611dbb7004be7363f74dfb9_43
+  - first:
+      213: -700470319227283948
+    second: bebacca37611dbb7004be7363f74dfb9_44
+  - first:
+      213: 280840480226181068
+    second: bebacca37611dbb7004be7363f74dfb9_45
+  - first:
+      213: -1345618674015341685
+    second: bebacca37611dbb7004be7363f74dfb9_46
+  - first:
+      213: 7350154897310656169
+    second: bebacca37611dbb7004be7363f74dfb9_47
+  - first:
+      213: 1841351086332362726
+    second: bebacca37611dbb7004be7363f74dfb9_48
+  - first:
+      213: -7478327412616459747
+    second: bebacca37611dbb7004be7363f74dfb9_49
+  - first:
+      213: 2350105027186696900
+    second: bebacca37611dbb7004be7363f74dfb9_50
+  - first:
+      213: -509940163012966225
+    second: bebacca37611dbb7004be7363f74dfb9_51
+  - first:
+      213: 4618090627574109679
+    second: bebacca37611dbb7004be7363f74dfb9_52
+  - first:
+      213: 6131906099245116916
+    second: bebacca37611dbb7004be7363f74dfb9_53
+  - first:
+      213: -8064478853442398826
+    second: bebacca37611dbb7004be7363f74dfb9_54
+  - first:
+      213: 7741122761447412427
+    second: bebacca37611dbb7004be7363f74dfb9_55
+  - first:
+      213: 425290993458444948
+    second: bebacca37611dbb7004be7363f74dfb9_56
+  - first:
+      213: 9161852706029354989
+    second: bebacca37611dbb7004be7363f74dfb9_57
+  - first:
+      213: -1993939110829135089
+    second: bebacca37611dbb7004be7363f74dfb9_58
+  - first:
+      213: 5041791186436187464
+    second: bebacca37611dbb7004be7363f74dfb9_59
+  - first:
+      213: 5638912579619955012
+    second: bebacca37611dbb7004be7363f74dfb9_60
+  - first:
+      213: -6555453072941059372
+    second: bebacca37611dbb7004be7363f74dfb9_61
+  - first:
+      213: 3801427019168843483
+    second: bebacca37611dbb7004be7363f74dfb9_62
+  - first:
+      213: 7964935887895746437
+    second: bebacca37611dbb7004be7363f74dfb9_63
+  - first:
+      213: 6324487343850793845
+    second: bebacca37611dbb7004be7363f74dfb9_64
+  - first:
+      213: -228377953316074434
+    second: bebacca37611dbb7004be7363f74dfb9_65
+  - first:
+      213: -1608969413085917507
+    second: bebacca37611dbb7004be7363f74dfb9_66
+  - first:
+      213: -8651440016485133356
+    second: bebacca37611dbb7004be7363f74dfb9_67
+  - first:
+      213: -347410476493696675
+    second: bebacca37611dbb7004be7363f74dfb9_68
+  - first:
+      213: -3018849746921135110
+    second: bebacca37611dbb7004be7363f74dfb9_69
+  - first:
+      213: 8914713417220086792
+    second: bebacca37611dbb7004be7363f74dfb9_70
+  - first:
+      213: 5740129541292129318
+    second: bebacca37611dbb7004be7363f74dfb9_71
+  - first:
+      213: -919239779403536968
+    second: bebacca37611dbb7004be7363f74dfb9_72
+  - first:
+      213: 2890797937163483134
+    second: bebacca37611dbb7004be7363f74dfb9_73
+  - first:
+      213: 1156989148575632494
+    second: bebacca37611dbb7004be7363f74dfb9_74
+  - first:
+      213: 675853731093819326
+    second: bebacca37611dbb7004be7363f74dfb9_75
+  - first:
+      213: 717408014989775942
+    second: bebacca37611dbb7004be7363f74dfb9_76
+  - first:
+      213: -7756945515098264738
+    second: bebacca37611dbb7004be7363f74dfb9_77
+  - first:
+      213: 3843234571962011435
+    second: bebacca37611dbb7004be7363f74dfb9_78
+  - first:
+      213: 7812816269422631341
+    second: bebacca37611dbb7004be7363f74dfb9_79
+  - first:
+      213: -7626388042943322286
+    second: bebacca37611dbb7004be7363f74dfb9_80
+  - first:
+      213: -6394756812496143340
+    second: bebacca37611dbb7004be7363f74dfb9_81
+  - first:
+      213: -2725617877838200363
+    second: bebacca37611dbb7004be7363f74dfb9_82
+  - first:
+      213: 1496865350086729396
+    second: bebacca37611dbb7004be7363f74dfb9_83
+  - first:
+      213: -6854587325292656861
+    second: bebacca37611dbb7004be7363f74dfb9_84
+  - first:
+      213: 7209048364510451858
+    second: bebacca37611dbb7004be7363f74dfb9_85
+  - first:
+      213: 1721734566986641482
+    second: bebacca37611dbb7004be7363f74dfb9_86
+  - first:
+      213: 6742205909067918461
+    second: bebacca37611dbb7004be7363f74dfb9_87
+  - first:
+      213: -5133468883525262286
+    second: bebacca37611dbb7004be7363f74dfb9_88
+  - first:
+      213: -4333820936600287133
+    second: bebacca37611dbb7004be7363f74dfb9_89
+  - first:
+      213: 8388518069087521066
+    second: bebacca37611dbb7004be7363f74dfb9_90
+  - first:
+      213: 7355376648341539074
+    second: bebacca37611dbb7004be7363f74dfb9_91
+  - first:
+      213: -5027875982277548253
+    second: bebacca37611dbb7004be7363f74dfb9_92
+  - first:
+      213: -9139670979852929604
+    second: bebacca37611dbb7004be7363f74dfb9_93
+  - first:
+      213: 5275999963391849217
+    second: bebacca37611dbb7004be7363f74dfb9_94
+  - first:
+      213: 1621346448753293763
+    second: bebacca37611dbb7004be7363f74dfb9_95
+  - first:
+      213: 2687740263633088621
+    second: bebacca37611dbb7004be7363f74dfb9_96
+  - first:
+      213: 14758091443403239
+    second: bebacca37611dbb7004be7363f74dfb9_97
+  - first:
+      213: 2194316043121414579
+    second: bebacca37611dbb7004be7363f74dfb9_98
+  - first:
+      213: 7210286711291864220
+    second: bebacca37611dbb7004be7363f74dfb9_99
+  - first:
+      213: 5000272628510774032
+    second: bebacca37611dbb7004be7363f74dfb9_100
+  - first:
+      213: 5798968125017396336
+    second: bebacca37611dbb7004be7363f74dfb9_101
+  - first:
+      213: 2239575617160179316
+    second: bebacca37611dbb7004be7363f74dfb9_102
+  - first:
+      213: -8502182955004191273
+    second: bebacca37611dbb7004be7363f74dfb9_103
+  - first:
+      213: -7022382225274989191
+    second: bebacca37611dbb7004be7363f74dfb9_104
+  - first:
+      213: -7524228333524715951
+    second: bebacca37611dbb7004be7363f74dfb9_105
+  - first:
+      213: -2815375899464423951
+    second: bebacca37611dbb7004be7363f74dfb9_106
+  - first:
+      213: -2331557518675024277
+    second: bebacca37611dbb7004be7363f74dfb9_107
+  - first:
+      213: -4565401708147362961
+    second: bebacca37611dbb7004be7363f74dfb9_108
+  - first:
+      213: -1687804129367601896
+    second: bebacca37611dbb7004be7363f74dfb9_109
+  - first:
+      213: -4949953409130710101
+    second: bebacca37611dbb7004be7363f74dfb9_110
+  - first:
+      213: -8522657154974599851
+    second: bebacca37611dbb7004be7363f74dfb9_111
+  - first:
+      213: -5531321949772168093
+    second: bebacca37611dbb7004be7363f74dfb9_112
+  - first:
+      213: 3938393942563522618
+    second: bebacca37611dbb7004be7363f74dfb9_113
+  - first:
+      213: -8064014786876549532
+    second: bebacca37611dbb7004be7363f74dfb9_114
+  - first:
+      213: 8541059477470382358
+    second: bebacca37611dbb7004be7363f74dfb9_115
+  - first:
+      213: -2571042865838742510
+    second: bebacca37611dbb7004be7363f74dfb9_116
+  - first:
+      213: -7722821338404333180
+    second: bebacca37611dbb7004be7363f74dfb9_117
+  - first:
+      213: 6652787018089833809
+    second: bebacca37611dbb7004be7363f74dfb9_118
+  - first:
+      213: -2055253914371547247
+    second: bebacca37611dbb7004be7363f74dfb9_119
+  - first:
+      213: 4664655777435832371
+    second: bebacca37611dbb7004be7363f74dfb9_120
+  - first:
+      213: -2800757590585831547
+    second: bebacca37611dbb7004be7363f74dfb9_121
+  - first:
+      213: 4752473889286167339
+    second: bebacca37611dbb7004be7363f74dfb9_122
+  - first:
+      213: 270857704870514790
+    second: bebacca37611dbb7004be7363f74dfb9_123
+  - first:
+      213: -4304903680766969882
+    second: bebacca37611dbb7004be7363f74dfb9_124
+  - first:
+      213: 2169132557336071493
+    second: bebacca37611dbb7004be7363f74dfb9_125
+  - first:
+      213: 1912105785050010880
+    second: bebacca37611dbb7004be7363f74dfb9_126
+  - first:
+      213: -8458248563914984051
+    second: bebacca37611dbb7004be7363f74dfb9_127
+  - first:
+      213: -7507094767286213301
+    second: bebacca37611dbb7004be7363f74dfb9_128
+  - first:
+      213: -3554824272825130269
+    second: bebacca37611dbb7004be7363f74dfb9_129
+  - first:
+      213: -659558335734893128
+    second: bebacca37611dbb7004be7363f74dfb9_130
+  - first:
+      213: 1853395725221554277
+    second: bebacca37611dbb7004be7363f74dfb9_131
+  - first:
+      213: -5030829273406073462
+    second: bebacca37611dbb7004be7363f74dfb9_132
+  - first:
+      213: -4110234020062902502
+    second: bebacca37611dbb7004be7363f74dfb9_133
+  - first:
+      213: 935808284186955144
+    second: bebacca37611dbb7004be7363f74dfb9_134
+  - first:
+      213: -1228841910102684459
+    second: bebacca37611dbb7004be7363f74dfb9_135
+  - first:
+      213: 4410310168816274957
+    second: bebacca37611dbb7004be7363f74dfb9_136
+  - first:
+      213: 4880174646373683627
+    second: bebacca37611dbb7004be7363f74dfb9_137
+  - first:
+      213: -7598881937639050144
+    second: bebacca37611dbb7004be7363f74dfb9_138
+  - first:
+      213: 3360723672343637217
+    second: bebacca37611dbb7004be7363f74dfb9_139
+  - first:
+      213: 4779535005142778218
+    second: bebacca37611dbb7004be7363f74dfb9_140
+  - first:
+      213: 272450909783079600
+    second: bebacca37611dbb7004be7363f74dfb9_141
+  - first:
+      213: -6317079139123271149
+    second: bebacca37611dbb7004be7363f74dfb9_142
+  - first:
+      213: 1158741294492260379
+    second: bebacca37611dbb7004be7363f74dfb9_143
+  - first:
+      213: -5769030301924659648
+    second: bebacca37611dbb7004be7363f74dfb9_144
+  - first:
+      213: -2909670283334475892
+    second: bebacca37611dbb7004be7363f74dfb9_145
+  - first:
+      213: 831471590831521904
+    second: bebacca37611dbb7004be7363f74dfb9_146
+  - first:
+      213: -2713456516419034870
+    second: bebacca37611dbb7004be7363f74dfb9_147
+  - first:
+      213: -4967299766171023073
+    second: bebacca37611dbb7004be7363f74dfb9_148
+  - first:
+      213: 5151529323844795212
+    second: bebacca37611dbb7004be7363f74dfb9_149
+  - first:
+      213: -4495780429129006867
+    second: bebacca37611dbb7004be7363f74dfb9_150
+  - first:
+      213: 4166304844126144988
+    second: bebacca37611dbb7004be7363f74dfb9_151
+  - first:
+      213: 4158195945170614425
+    second: bebacca37611dbb7004be7363f74dfb9_152
+  - first:
+      213: -4848347595225751137
+    second: bebacca37611dbb7004be7363f74dfb9_153
+  - first:
+      213: -3012732185347463529
+    second: bebacca37611dbb7004be7363f74dfb9_154
+  - first:
+      213: -3134027509289370954
+    second: bebacca37611dbb7004be7363f74dfb9_155
+  - first:
+      213: 8025976628541465336
+    second: bebacca37611dbb7004be7363f74dfb9_156
+  - first:
+      213: -4934275434534909263
+    second: bebacca37611dbb7004be7363f74dfb9_157
+  - first:
+      213: -7944242283397010519
+    second: bebacca37611dbb7004be7363f74dfb9_158
+  - first:
+      213: 4029245098572476694
+    second: bebacca37611dbb7004be7363f74dfb9_159
+  - first:
+      213: -2702829171124105968
+    second: bebacca37611dbb7004be7363f74dfb9_160
+  - first:
+      213: -4611320510957112005
+    second: bebacca37611dbb7004be7363f74dfb9_161
+  - first:
+      213: -1507061802416967853
+    second: bebacca37611dbb7004be7363f74dfb9_162
+  - first:
+      213: -5225968520505475615
+    second: bebacca37611dbb7004be7363f74dfb9_163
+  - first:
+      213: -1370691198639992881
+    second: bebacca37611dbb7004be7363f74dfb9_164
+  - first:
+      213: 509288003652206135
+    second: bebacca37611dbb7004be7363f74dfb9_165
+  - first:
+      213: 3064901137247557142
+    second: bebacca37611dbb7004be7363f74dfb9_166
+  - first:
+      213: 403296316514660823
+    second: bebacca37611dbb7004be7363f74dfb9_167
+  - first:
+      213: 6152636162068016828
+    second: bebacca37611dbb7004be7363f74dfb9_168
+  - first:
+      213: 9011818386097638138
+    second: bebacca37611dbb7004be7363f74dfb9_169
+  - first:
+      213: 8511064231319349770
+    second: bebacca37611dbb7004be7363f74dfb9_170
+  - first:
+      213: -3303420644705748027
+    second: bebacca37611dbb7004be7363f74dfb9_171
+  - first:
+      213: -881602292849843021
+    second: bebacca37611dbb7004be7363f74dfb9_172
+  - first:
+      213: -7464043442369262983
+    second: bebacca37611dbb7004be7363f74dfb9_173
+  - first:
+      213: 3667599951367296491
+    second: bebacca37611dbb7004be7363f74dfb9_174
+  - first:
+      213: -3298500482162459505
+    second: bebacca37611dbb7004be7363f74dfb9_175
+  - first:
+      213: -6517964198536113145
+    second: bebacca37611dbb7004be7363f74dfb9_176
+  - first:
+      213: -1180509624652090678
+    second: bebacca37611dbb7004be7363f74dfb9_177
+  - first:
+      213: -3844606469305318848
+    second: bebacca37611dbb7004be7363f74dfb9_178
+  - first:
+      213: 2826095366939526281
+    second: bebacca37611dbb7004be7363f74dfb9_179
+  - first:
+      213: 5972003942190855849
+    second: bebacca37611dbb7004be7363f74dfb9_180
+  - first:
+      213: 9018752441275763792
+    second: bebacca37611dbb7004be7363f74dfb9_181
+  - first:
+      213: 9027891995131446549
+    second: bebacca37611dbb7004be7363f74dfb9_182
+  - first:
+      213: -755264309911941365
+    second: bebacca37611dbb7004be7363f74dfb9_183
+  - first:
+      213: 2002259963491230705
+    second: bebacca37611dbb7004be7363f74dfb9_184
+  - first:
+      213: 917820664821063923
+    second: bebacca37611dbb7004be7363f74dfb9_185
+  - first:
+      213: 2361614755079864215
+    second: bebacca37611dbb7004be7363f74dfb9_186
+  - first:
+      213: 6087511857802619734
+    second: bebacca37611dbb7004be7363f74dfb9_187
+  - first:
+      213: -3340914144598284158
+    second: bebacca37611dbb7004be7363f74dfb9_188
+  - first:
+      213: 5928270052932550963
+    second: bebacca37611dbb7004be7363f74dfb9_189
+  - first:
+      213: 2465505134398816176
+    second: bebacca37611dbb7004be7363f74dfb9_190
+  - first:
+      213: -4014442265889677330
+    second: bebacca37611dbb7004be7363f74dfb9_191
+  - first:
+      213: 6600216296743178690
+    second: bebacca37611dbb7004be7363f74dfb9_192
+  - first:
+      213: 3522425095191881819
+    second: bebacca37611dbb7004be7363f74dfb9_193
+  - first:
+      213: -2240365108587562477
+    second: bebacca37611dbb7004be7363f74dfb9_194
+  - first:
+      213: -3223392085126713897
+    second: bebacca37611dbb7004be7363f74dfb9_195
+  - first:
+      213: 8049980551026306759
+    second: bebacca37611dbb7004be7363f74dfb9_196
+  - first:
+      213: 7185879884779183938
+    second: bebacca37611dbb7004be7363f74dfb9_197
+  - first:
+      213: -4204257734233272877
+    second: bebacca37611dbb7004be7363f74dfb9_198
+  - first:
+      213: -412804986789034940
+    second: bebacca37611dbb7004be7363f74dfb9_199
+  - first:
+      213: -7033047003797294536
+    second: bebacca37611dbb7004be7363f74dfb9_200
+  - first:
+      213: 8601056394103680509
+    second: bebacca37611dbb7004be7363f74dfb9_201
+  - first:
+      213: -6827540221688999738
+    second: bebacca37611dbb7004be7363f74dfb9_202
+  - first:
+      213: 2861237064865579804
+    second: bebacca37611dbb7004be7363f74dfb9_203
+  - first:
+      213: -7740822077261726698
+    second: bebacca37611dbb7004be7363f74dfb9_204
+  - first:
+      213: -8786827616554779031
+    second: bebacca37611dbb7004be7363f74dfb9_205
+  - first:
+      213: -745719428216682165
+    second: bebacca37611dbb7004be7363f74dfb9_206
+  - first:
+      213: 3604377600090617951
+    second: bebacca37611dbb7004be7363f74dfb9_207
+  - first:
+      213: 9007512576623645629
+    second: bebacca37611dbb7004be7363f74dfb9_208
+  - first:
+      213: -424733994226271882
+    second: bebacca37611dbb7004be7363f74dfb9_209
+  - first:
+      213: -955000532810074536
+    second: bebacca37611dbb7004be7363f74dfb9_210
+  - first:
+      213: -2215515533837569928
+    second: bebacca37611dbb7004be7363f74dfb9_211
+  - first:
+      213: 8260106108756723289
+    second: bebacca37611dbb7004be7363f74dfb9_212
+  - first:
+      213: 6576070226042668734
+    second: bebacca37611dbb7004be7363f74dfb9_213
+  - first:
+      213: 5865443679879060113
+    second: bebacca37611dbb7004be7363f74dfb9_214
+  - first:
+      213: -1774231634172636941
+    second: bebacca37611dbb7004be7363f74dfb9_215
+  - first:
+      213: 3908086889904769560
+    second: bebacca37611dbb7004be7363f74dfb9_216
+  - first:
+      213: -2438566094866237418
+    second: bebacca37611dbb7004be7363f74dfb9_217
+  - first:
+      213: 8369497681226561368
+    second: bebacca37611dbb7004be7363f74dfb9_218
+  - first:
+      213: -4188558595556573615
+    second: bebacca37611dbb7004be7363f74dfb9_219
+  - first:
+      213: 7819490885121665506
+    second: bebacca37611dbb7004be7363f74dfb9_220
+  - first:
+      213: 3306650934121032313
+    second: bebacca37611dbb7004be7363f74dfb9_221
+  - first:
+      213: 7993724368783111170
+    second: bebacca37611dbb7004be7363f74dfb9_222
+  - first:
+      213: 1643875389974449256
+    second: bebacca37611dbb7004be7363f74dfb9_223
+  - first:
+      213: 395850211032510215
+    second: bebacca37611dbb7004be7363f74dfb9_224
+  - first:
+      213: -1269116681892491524
+    second: bebacca37611dbb7004be7363f74dfb9_225
+  - first:
+      213: -3726857660007911085
+    second: bebacca37611dbb7004be7363f74dfb9_226
+  - first:
+      213: -2684863338330781662
+    second: bebacca37611dbb7004be7363f74dfb9_227
+  - first:
+      213: -1803353584074643044
+    second: bebacca37611dbb7004be7363f74dfb9_228
+  - first:
+      213: -992581245294764261
+    second: bebacca37611dbb7004be7363f74dfb9_229
+  - first:
+      213: 2257604759905368598
+    second: bebacca37611dbb7004be7363f74dfb9_230
+  - first:
+      213: -3793401577789799190
+    second: bebacca37611dbb7004be7363f74dfb9_231
+  - first:
+      213: -8555335740285976950
+    second: bebacca37611dbb7004be7363f74dfb9_232
+  - first:
+      213: 4977865566732074890
+    second: bebacca37611dbb7004be7363f74dfb9_233
+  - first:
+      213: 350125602893664361
+    second: bebacca37611dbb7004be7363f74dfb9_234
+  - first:
+      213: 5294388998960285233
+    second: bebacca37611dbb7004be7363f74dfb9_235
+  - first:
+      213: 3166508371083202578
+    second: bebacca37611dbb7004be7363f74dfb9_236
+  - first:
+      213: 6993713845009175059
+    second: bebacca37611dbb7004be7363f74dfb9_237
+  - first:
+      213: 6482182677890326429
+    second: bebacca37611dbb7004be7363f74dfb9_238
+  - first:
+      213: 3129354138764399865
+    second: bebacca37611dbb7004be7363f74dfb9_239
+  - first:
+      213: 986241278216356237
+    second: bebacca37611dbb7004be7363f74dfb9_240
+  - first:
+      213: -3393734560886564709
+    second: bebacca37611dbb7004be7363f74dfb9_241
+  - first:
+      213: -9218496182785911911
+    second: bebacca37611dbb7004be7363f74dfb9_242
+  - first:
+      213: -6701589317565177194
+    second: bebacca37611dbb7004be7363f74dfb9_243
+  - first:
+      213: 7185793940981732152
+    second: bebacca37611dbb7004be7363f74dfb9_244
+  - first:
+      213: 4021841125405866777
+    second: bebacca37611dbb7004be7363f74dfb9_245
+  - first:
+      213: -5430533337713345548
+    second: bebacca37611dbb7004be7363f74dfb9_246
+  - first:
+      213: 5864677551210222368
+    second: bebacca37611dbb7004be7363f74dfb9_247
+  - first:
+      213: 7492910822079440023
+    second: bebacca37611dbb7004be7363f74dfb9_248
+  - first:
+      213: -6202240878941384644
+    second: bebacca37611dbb7004be7363f74dfb9_249
+  - first:
+      213: -8170558391480406657
+    second: bebacca37611dbb7004be7363f74dfb9_250
+  - first:
+      213: 8295938034449382461
+    second: bebacca37611dbb7004be7363f74dfb9_251
+  - first:
+      213: -5509772743155097748
+    second: bebacca37611dbb7004be7363f74dfb9_252
+  - first:
+      213: -6850035877713716399
+    second: bebacca37611dbb7004be7363f74dfb9_253
+  - first:
+      213: -7900248453668134855
+    second: bebacca37611dbb7004be7363f74dfb9_254
+  - first:
+      213: 7828768842705121090
+    second: bebacca37611dbb7004be7363f74dfb9_255
+  - first:
+      213: 1843473965252749564
+    second: bebacca37611dbb7004be7363f74dfb9_256
+  - first:
+      213: 1008533835116079562
+    second: bebacca37611dbb7004be7363f74dfb9_257
+  - first:
+      213: 8541792830068209569
+    second: bebacca37611dbb7004be7363f74dfb9_258
+  - first:
+      213: 7463640323081163361
+    second: bebacca37611dbb7004be7363f74dfb9_259
+  - first:
+      213: 5693611285719343842
+    second: bebacca37611dbb7004be7363f74dfb9_260
+  - first:
+      213: 5150267122293063012
+    second: bebacca37611dbb7004be7363f74dfb9_261
+  - first:
+      213: 7131804258344221306
+    second: bebacca37611dbb7004be7363f74dfb9_262
+  - first:
+      213: 5170114335942286036
+    second: bebacca37611dbb7004be7363f74dfb9_263
+  - first:
+      213: -980742703298273166
+    second: bebacca37611dbb7004be7363f74dfb9_264
+  - first:
+      213: -8634164758511675861
+    second: bebacca37611dbb7004be7363f74dfb9_265
+  - first:
+      213: 1246343907397739462
+    second: bebacca37611dbb7004be7363f74dfb9_266
+  - first:
+      213: -8771181016391568775
+    second: bebacca37611dbb7004be7363f74dfb9_267
+  - first:
+      213: -8104251907798361226
+    second: bebacca37611dbb7004be7363f74dfb9_268
+  - first:
+      213: -958848105215185602
+    second: bebacca37611dbb7004be7363f74dfb9_269
+  - first:
+      213: -1836374949128400680
+    second: bebacca37611dbb7004be7363f74dfb9_270
+  - first:
+      213: 5876868021687855308
+    second: bebacca37611dbb7004be7363f74dfb9_271
+  - first:
+      213: 96206426748624429
+    second: bebacca37611dbb7004be7363f74dfb9_272
+  - first:
+      213: 1250841156583608837
+    second: bebacca37611dbb7004be7363f74dfb9_273
+  - first:
+      213: -1999559311127185321
+    second: bebacca37611dbb7004be7363f74dfb9_274
+  - first:
+      213: -1393556373939905887
+    second: bebacca37611dbb7004be7363f74dfb9_275
+  - first:
+      213: -2533785792310432659
+    second: bebacca37611dbb7004be7363f74dfb9_276
+  - first:
+      213: -8926983910192545303
+    second: bebacca37611dbb7004be7363f74dfb9_277
+  - first:
+      213: 172134588098472449
+    second: bebacca37611dbb7004be7363f74dfb9_278
+  - first:
+      213: -1744086092362336993
+    second: bebacca37611dbb7004be7363f74dfb9_279
+  - first:
+      213: 1931047145662523061
+    second: bebacca37611dbb7004be7363f74dfb9_280
+  - first:
+      213: -5750605425532814184
+    second: bebacca37611dbb7004be7363f74dfb9_281
+  - first:
+      213: 3865872127861397736
+    second: bebacca37611dbb7004be7363f74dfb9_282
+  - first:
+      213: -338907005483959798
+    second: bebacca37611dbb7004be7363f74dfb9_283
+  - first:
+      213: -4868968447009860679
+    second: bebacca37611dbb7004be7363f74dfb9_284
+  - first:
+      213: 1182109097356903800
+    second: bebacca37611dbb7004be7363f74dfb9_285
+  - first:
+      213: -5857717508697550385
+    second: bebacca37611dbb7004be7363f74dfb9_286
+  - first:
+      213: -5305802844833264908
+    second: bebacca37611dbb7004be7363f74dfb9_287
+  - first:
+      213: -2994964895382885459
+    second: bebacca37611dbb7004be7363f74dfb9_288
+  - first:
+      213: -708633848314302621
+    second: bebacca37611dbb7004be7363f74dfb9_289
+  - first:
+      213: 858097514608986790
+    second: bebacca37611dbb7004be7363f74dfb9_290
+  - first:
+      213: -5749895774706356954
+    second: bebacca37611dbb7004be7363f74dfb9_291
+  - first:
+      213: 1019425715066162692
+    second: bebacca37611dbb7004be7363f74dfb9_292
+  - first:
+      213: 9206829177734872665
+    second: bebacca37611dbb7004be7363f74dfb9_293
+  - first:
+      213: 2077047009586171071
+    second: bebacca37611dbb7004be7363f74dfb9_294
+  - first:
+      213: -7991897580369705229
+    second: bebacca37611dbb7004be7363f74dfb9_295
+  - first:
+      213: 7229881240020962669
+    second: bebacca37611dbb7004be7363f74dfb9_296
+  - first:
+      213: 4123917456097505308
+    second: bebacca37611dbb7004be7363f74dfb9_297
+  - first:
+      213: 4000236332394121023
+    second: bebacca37611dbb7004be7363f74dfb9_298
+  - first:
+      213: 5435109591760605810
+    second: bebacca37611dbb7004be7363f74dfb9_299
+  - first:
+      213: -9178222550481625997
+    second: bebacca37611dbb7004be7363f74dfb9_300
+  - first:
+      213: -1323958101622150689
+    second: bebacca37611dbb7004be7363f74dfb9_301
+  - first:
+      213: 406164485841316189
+    second: bebacca37611dbb7004be7363f74dfb9_302
+  - first:
+      213: 8412627940862279729
+    second: bebacca37611dbb7004be7363f74dfb9_303
+  - first:
+      213: 782647800794529683
+    second: bebacca37611dbb7004be7363f74dfb9_304
+  - first:
+      213: -6732985574462138957
+    second: bebacca37611dbb7004be7363f74dfb9_305
+  - first:
+      213: 3274410392632908906
+    second: bebacca37611dbb7004be7363f74dfb9_306
+  - first:
+      213: -5247446779669110182
+    second: bebacca37611dbb7004be7363f74dfb9_307
+  - first:
+      213: 7492956000867972282
+    second: bebacca37611dbb7004be7363f74dfb9_308
+  - first:
+      213: -7958526578024435159
+    second: bebacca37611dbb7004be7363f74dfb9_309
+  - first:
+      213: -4527659974483964636
+    second: bebacca37611dbb7004be7363f74dfb9_310
+  - first:
+      213: -7567633167806952500
+    second: bebacca37611dbb7004be7363f74dfb9_311
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 10
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ab86c84b6a49f50800000000000000
+      internalID: 6887313024536328770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738da06cbbe958d80800000000000000
+      internalID: -8249012613140522953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af63c1d957e4f340800000000000000
+      internalID: 4896793067815923619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab37a667bd34310800000000000000
+      internalID: 1388194411798837972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db734e3e8574fe810800000000000000
+      internalID: 1796733223450195901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdfac063ab14c800800000000000000
+      internalID: 631660236256247233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d1d000db35ed30800000000000000
+      internalID: 4460036770533332925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218fe9955b8e01d0800000000000000
+      internalID: -3382613070337572565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ab3b174fc7ef60800000000000000
+      internalID: 8063641562136682502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d47bed5448dedf30800000000000000
+      internalID: 4602353657364313301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8393a05b0eae76ff0800000000000000
+      internalID: -42807420605810376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ff635275ab29bf0800000000000000
+      internalID: -318987740140601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cb00bda19d89d30800000000000000
+      internalID: 4438536142140259348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d3da85b43e74c0800000000000000
+      internalID: -4287931840887269905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c629b2a6569eaefd0800000000000000
+      internalID: -2311778836919119252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755870d6a17f70a0800000000000000
+      internalID: -6881656744322771595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e652877c6461c82b0800000000000000
+      internalID: -5581061344968825490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c020e8e9d6da7d0800000000000000
+      internalID: -2905545656829342711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3cf89fd90e6f270800000000000000
+      internalID: 8284055533696041983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfca82dc16d78c0800000000000000
+      internalID: -3999933360256517296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c21984eaab5950800000000000000
+      internalID: 6438927990785229148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0189a8565d795f0800000000000000
+      internalID: -749896180840263448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609d8191e08324680800000000000000
+      internalID: -8772387490962548474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 410
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3fab99336ab6ae0800000000000000
+      internalID: -1554966505773665346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122017328610b91c0800000000000000
+      internalID: -4495998256216473055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3df52def271a700800000000000000
+      internalID: 549847068292666353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e48834c6cdb277a0800000000000000
+      internalID: -6380829060637358872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46edf1d5ac11850800000000000000
+      internalID: 6346075851257177263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31652ba0f2a64510800000000000000
+      internalID: 1533091877713436988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2120169108eab6910800000000000000
+      internalID: 1831749538661073426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0c3a6953737ce0800000000000000
+      internalID: -1408655430565229676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0074a2c3bf8abe0800000000000000
+      internalID: -1465645442883190583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3ae0de0a304e700800000000000000
+      internalID: 568583442662335399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c602da33c2eaaf0800000000000000
+      internalID: -383320317820375930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc07121cfc5e8780800000000000000
+      internalID: -8678897194191352621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a3477240587050800000000000000
+      internalID: 5798472766638498778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46190b691167a0fa0800000000000000
+      internalID: -5833720549390380700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7900f6f7d7e9930800000000000000
+      internalID: 4151893892758804384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65414a185809feb0800000000000000
+      internalID: -4685704762811660948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eebf5c4dbd17690800000000000000
+      internalID: -7606056588750885257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e467fb9ae66c760800000000000000
+      internalID: 7477785906636017183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_41
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fd71355ba366e0800000000000000
+      internalID: -1845443039900862864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a71a84c7700180800000000000000
+      internalID: -9151182756802745972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229bf5ff821183700800000000000000
+      internalID: 520184624742119714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d0c6b4fd6746f0800000000000000
+      internalID: -700470319227283948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf7e66cdeeb5e300800000000000000
+      internalID: 280840480226181068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fe2402f6635de0800000000000000
+      internalID: -1345618674015341685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 378
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ac42bfeef00660800000000000000
+      internalID: 7350154897310656169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbe9f9e0bcd8910800000000000000
+      internalID: 1841351086332362726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0ee017d4a73890800000000000000
+      internalID: -7478327412616459747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a25222104d9020800000000000000
+      internalID: 2350105027186696900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa848ee9f145ce8f0800000000000000
+      internalID: -509940163012966225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59d1545f0c61040800000000000000
+      internalID: 4618090627574109679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6e89eb18e81550800000000000000
+      internalID: 6131906099245116916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6959ae1d537351090800000000000000
+      internalID: -8064478853442398826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc293c6232efd6b60800000000000000
+      internalID: 7741122761447412427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a734fb7efe6e500800000000000000
+      internalID: 425290993458444948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defb45b9e70752f70800000000000000
+      internalID: 9161852706029354989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b654b61fa1454e0800000000000000
+      internalID: -1993939110829135089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845693b1f5a08f540800000000000000
+      internalID: 5041791186436187464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441aabb6d11714e40800000000000000
+      internalID: 5638912579619955012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fa95992a5605a0800000000000000
+      internalID: -6555453072941059372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6812dabb161c430800000000000000
+      internalID: 3801427019168843483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58759c07df2298e60800000000000000
+      internalID: 7964935887895746437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b2eac0bb715c750800000000000000
+      internalID: 6324487343850793845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_65
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c80122673a4dcf0800000000000000
+      internalID: -228377953316074434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe8b8ee7dacba9e0800000000000000
+      internalID: -1608969413085917507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_67
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ddcd6429efe780800000000000000
+      internalID: -8651440016485133356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5118552300cd2bf0800000000000000
+      internalID: -347410476493696675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ec745624ea16d0800000000000000
+      internalID: -3018849746921135110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_70
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cdfcbee9c67bb70800000000000000
+      internalID: 8914713417220086792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_71
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 346
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7171c76909af40800000000000000
+      internalID: 5740129541292129318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b56e3d7a443e33f0800000000000000
+      internalID: -919239779403536968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7bf02686d2e1820800000000000000
+      internalID: 2890797937163483134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c05d920837e0010800000000000000
+      internalID: 1156989148575632494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf28f9336d116900800000000000000
+      internalID: 675853731093819326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644db74e9ceb4f900800000000000000
+      internalID: 717408014989775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b228ee62bc95490800000000000000
+      internalID: -7756945515098264738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fcb4a1b79e55530800000000000000
+      internalID: 3843234571962011435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da91452c003bc6c60800000000000000
+      internalID: 7812816269422631341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a3153b70a92690800000000000000
+      internalID: -7626388042943322286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c78265f824147a0800000000000000
+      internalID: -6394756812496143340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d100062bf8ac2ad0800000000000000
+      internalID: -2725617877838200363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be928cea1fe5c410800000000000000
+      internalID: 1496865350086729396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3274902152d9fd0a0800000000000000
+      internalID: -6854587325292656861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_85
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2989147da4fab0460800000000000000
+      internalID: 7209048364510451858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ffbe6774d4e710800000000000000
+      internalID: 1721734566986641482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c68847d80219d50800000000000000
+      internalID: 6742205909067918461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a4fbaf3142c8b0800000000000000
+      internalID: -5133468883525262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_89
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680ac9d1dc2bd3c0800000000000000
+      internalID: -4333820936600287133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_90
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2948e35db00a6470800000000000000
+      internalID: 8388518069087521066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_91
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c999571c831660800000000000000
+      internalID: 7355376648341539074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_92
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327e0a5de65693ab0800000000000000
+      internalID: -5027875982277548253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb57be9faad592180800000000000000
+      internalID: -9139670979852929604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_94
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f1f4630e183940800000000000000
+      internalID: 5275999963391849217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_95
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 314
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f7cf310e208610800000000000000
+      internalID: 1621346448753293763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d607d5e8785cc4520800000000000000
+      internalID: 2687740263633088621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fb0ee76e643000800000000000000
+      internalID: 14758091443403239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b15133b0d6c37e10800000000000000
+      internalID: 2194316043121414579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94654bef85101460800000000000000
+      internalID: 7210286711291864220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135e7a8679846540800000000000000
+      internalID: 5000272628510774032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074997319c21a7050800000000000000
+      internalID: 5798968125017396336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e65747822941f10800000000000000
+      internalID: 2239575617160179316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd189f16ad220a80800000000000000
+      internalID: -8502182955004191273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759771829c7b8e90800000000000000
+      internalID: -7022382225274989191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156745b1232949790800000000000000
+      internalID: -7524228333524715951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f52a333986cde8d0800000000000000
+      internalID: -2815375899464423951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66ebf53ac4a4afd0800000000000000
+      internalID: -2331557518675024277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f633ae0c55f64a0c0800000000000000
+      internalID: -4565401708147362961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4b923617b398e0800000000000000
+      internalID: -1687804129367601896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb702b99b3e4bb0800000000000000
+      internalID: -4949953409130710101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553c47f87079b980800000000000000
+      internalID: -8522657154974599851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364428d2efbcc33b0800000000000000
+      internalID: -5531321949772168093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_113
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388c0c9c6cf7a630800000000000000
+      internalID: 3938393942563522618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466d9bcb64dd61090800000000000000
+      internalID: -8064014786876549532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_115
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190b10a750f78670800000000000000
+      internalID: 8541059477470382358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214216fa222d15cd0800000000000000
+      internalID: -2571042865838742510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_117
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4895a94f8e603d490800000000000000
+      internalID: -7722821338404333180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_118
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15523938b82735c50800000000000000
+      internalID: 6652787018089833809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_119
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 282
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f17ae34754a73e0800000000000000
+      internalID: -2055253914371547247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330598517bf2cb040800000000000000
+      internalID: 4664655777435832371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f07277fc5b129d0800000000000000
+      internalID: -2800757590585831547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b983792dd24f140800000000000000
+      internalID: 4752473889286167339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6601c73c5a742c300800000000000000
+      internalID: 270857704870514790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7fc9329e8e144c0800000000000000
+      internalID: -4304903680766969882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d40ce719e4a1e10800000000000000
+      internalID: 2169132557336071493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00510eaa41a298a10800000000000000
+      internalID: 1912105785050010880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85b3edaeb34e9a80800000000000000
+      internalID: -8458248563914984051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4526bc551171d790800000000000000
+      internalID: -7507094767286213301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2625b782abaaec0800000000000000
+      internalID: -3554824272825130269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5bfd92037c8d6f0800000000000000
+      internalID: -659558335734893128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ee06a79598b910800000000000000
+      internalID: 1853395725221554277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a859ef82e67ee2ab0800000000000000
+      internalID: -5030829273406073462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_133
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17cc6a8fe385f6c0800000000000000
+      internalID: -4110234020062902502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_134
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dc4d42da8acfc00800000000000000
+      internalID: 935808284186955144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc873f1bc642fee0800000000000000
+      internalID: -1228841910102684459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e46915bb1943d30800000000000000
+      internalID: 4410310168816274957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_137
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba198fe0cfcd9b340800000000000000
+      internalID: 4880174646373683627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_138
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06474e863295b8690800000000000000
+      internalID: -7598881937639050144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_139
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ece946cf50b3ae20800000000000000
+      internalID: 3360723672343637217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61841d93c1545240800000000000000
+      internalID: 4779535005142778218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_141
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3a50b8a0f7c300800000000000000
+      internalID: 272450909783079600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_142
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae6860ef93558a0800000000000000
+      internalID: -6317079139123271149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_143
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 250
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1899cc611da41010800000000000000
+      internalID: 1158741294492260379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ee05b818940ffa0800000000000000
+      internalID: -5769030301924659648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f965c1b46ce97d0800000000000000
+      internalID: -2909670283334475892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070875ca10bf98b00800000000000000
+      internalID: 831471590831521904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ef51ccadd75ad0800000000000000
+      internalID: -2713456516419034870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ce783e2b901bb0800000000000000
+      internalID: -4967299766171023073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf6c540a8ed7740800000000000000
+      internalID: 5151529323844795212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0cc95f487cb91c0800000000000000
+      internalID: -4495780429129006867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9c0248e20b1d930800000000000000
+      internalID: 4166304844126144988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9983d5a5e21e4b930800000000000000
+      internalID: 4158195945170614425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9123febc8537bcb0800000000000000
+      internalID: -4848347595225751137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966af02a00a036d0800000000000000
+      internalID: -3012732185347463529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba3188c592b184d0800000000000000
+      internalID: -3134027509289370954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22dcf583ff16f60800000000000000
+      internalID: 8025976628541465336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4c9c92aee58bb0800000000000000
+      internalID: -4934275434534909263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abab70dbb160c190800000000000000
+      internalID: -7944242283397010519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611756db111cae730800000000000000
+      internalID: 4029245098572476694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_160
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d8596603f9d7ad0800000000000000
+      internalID: -2702829171124105968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_161
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bde65d6c4100c0800000000000000
+      internalID: -4611320510957112005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_162
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f60648647d51be0800000000000000
+      internalID: -1507061802416967853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_163
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb5e7a151a977b0800000000000000
+      internalID: -5225968520505475615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0f48fd935afce0800000000000000
+      internalID: -1370691198639992881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_165
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ebe02bdba511700800000000000000
+      internalID: 509288003652206135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_166
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d4558857b88a20800000000000000
+      internalID: 3064901137247557142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_167
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d17415fcdbc89500800000000000000
+      internalID: 403296316514660823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6948cdfd826550800000000000000
+      internalID: 6152636162068016828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0fa35319601d70800000000000000
+      internalID: 9011818386097638138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0aa25823df5d1670800000000000000
+      internalID: 8511064231319349770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb3f980d64e722d0800000000000000
+      internalID: -3303420644705748027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4e385b26be3c3f0800000000000000
+      internalID: -881602292849843021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a0f7d09046a6890800000000000000
+      internalID: -7464043442369262983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5dc7759bee5e230800000000000000
+      internalID: 3667599951367296491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c7045a94f5932d0800000000000000
+      internalID: -3298500482162459505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7049a87581a8b85a0800000000000000
+      internalID: -6517964198536113145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bea040ccfd9fe0800000000000000
+      internalID: -1180509624652090678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04243e729c635aac0800000000000000
+      internalID: -3844606469305318848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984cecf43ce483720800000000000000
+      internalID: 2826095366939526281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b483c1f1d0e250800000000000000
+      internalID: 5972003942190855849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ccd6bdf8b092d70800000000000000
+      internalID: 9018752441275763792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515076010f3894d70800000000000000
+      internalID: 9027891995131446549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f0b289c13c485f0800000000000000
+      internalID: -755264309911941365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3a1ef04d479cb10800000000000000
+      internalID: 2002259963491230705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_185
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f02c262801ccbc00800000000000000
+      internalID: 917820664821063923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_186
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f3bdc7b1426c020800000000000000
+      internalID: 2361614755079864215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_187
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bad4a18cf2b7450800000000000000
+      internalID: 6087511857802619734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_188
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28824225940b2a1d0800000000000000
+      internalID: -3340914144598284158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_189
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33181ad2432754250800000000000000
+      internalID: 5928270052932550963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_190
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf3ebf5bdb373220800000000000000
+      internalID: 2465505134398816176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_191
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefd4525706d948c0800000000000000
+      internalID: -4014442265889677330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11f10a0cda89b50800000000000000
+      internalID: 6600216296743178690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5865d226fa22e030800000000000000
+      internalID: 3522425095191881819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a757fbdcf98e0e0800000000000000
+      internalID: -2240365108587562477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd67321af53443d0800000000000000
+      internalID: -3223392085126713897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee9b819a647bf60800000000000000
+      internalID: 8049980551026306759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f53eaceaf59b360800000000000000
+      internalID: 7185879884779183938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd46d6add977a5c0800000000000000
+      internalID: -4204257734233272877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4440ee83d0c654af0800000000000000
+      internalID: -412804986789034940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83279024309956e90800000000000000
+      internalID: -7033047003797294536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde6a758371d5770800000000000000
+      internalID: 8601056394103680509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0198c9754bf31a0800000000000000
+      internalID: -6827540221688999738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c138e7573f725b720800000000000000
+      internalID: 2861237064865579804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c30575553139490800000000000000
+      internalID: -7740822077261726698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ef8ac56daee0680800000000000000
+      internalID: -8786827616554779031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49890b812ca6a5f0800000000000000
+      internalID: -745719428216682165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58b6c99452550230800000000000000
+      internalID: 3604377600090617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_208
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3148fe6fc110d70800000000000000
+      internalID: 9007512576623645629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_209
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6793c1ebeaa0b1af0800000000000000
+      internalID: -424733994226271882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_210
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856fb8143182fb2f0800000000000000
+      internalID: -955000532810074536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_211
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870704b3c58e041e0800000000000000
+      internalID: -2215515533837569928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9568a73fdbac1a270800000000000000
+      internalID: 8260106108756723289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_213
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6cb417705e24b50800000000000000
+      internalID: 6576070226042668734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_214
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a504d43fd366150800000000000000
+      internalID: 5865443679879060113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_215
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f011ef9ab9a067e0800000000000000
+      internalID: -1774231634172636941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a822802505c3630800000000000000
+      internalID: 3908086889904769560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_217
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618bf2a8e09782ed0800000000000000
+      internalID: -2438566094866237418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_218
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f6fd2ccd662470800000000000000
+      internalID: 8369497681226561368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ef0f636204fd5c0800000000000000
+      internalID: -4188558595556573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_220
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9e414d789648c60800000000000000
+      internalID: 7819490885121665506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_221
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a6f74518593ed20800000000000000
+      internalID: 3306650934121032313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_222
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20473b9f5f96fee60800000000000000
+      internalID: 7993724368783111170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_223
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0f6225f730d610800000000000000
+      internalID: 1643875389974449256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_224
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f2bdc6ba75e7500800000000000000
+      internalID: 395850211032510215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_225
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe86451a11336ee0800000000000000
+      internalID: -1269116681892491524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f8c634ba874cc0800000000000000
+      internalID: -3726857660007911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_227
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280350d4037dbad0800000000000000
+      internalID: -2684863338330781662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_228
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99adc8487339f6e0800000000000000
+      internalID: -1803353584074643044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_229
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9d77cd94a932f0800000000000000
+      internalID: -992581245294764261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_230
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af36d519f945f10800000000000000
+      internalID: 2257604759905368598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ce610d512b5bc0800000000000000
+      internalID: -3793401577789799190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efc0ae877554980800000000000000
+      internalID: -8555335740285976950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_233
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb6bceb5ee41540800000000000000
+      internalID: 4977865566732074890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_234
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9601f3b7165ebd400800000000000000
+      internalID: 350125602893664361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_235
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13683c16eb2797940800000000000000
+      internalID: 5294388998960285233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_236
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21017bc2692b1fb20800000000000000
+      internalID: 3166508371083202578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_237
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d08010b9ae0160800000000000000
+      internalID: 6993713845009175059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_238
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd7dc2dc655f950800000000000000
+      internalID: 6482182677890326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_239
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f453795203bd6b20800000000000000
+      internalID: 3129354138764399865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c9ea9735dfad00800000000000000
+      internalID: 986241278216356237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98d36cc56807e0d0800000000000000
+      internalID: -3393734560886564709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99350cd3092511080800000000000000
+      internalID: -9218496182785911911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a9ffa50c2ff2a0800000000000000
+      internalID: -6701589317565177194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833de51748119b360800000000000000
+      internalID: 7185793940981732152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bbfd6e13370d730800000000000000
+      internalID: 4021841125405866777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbfda893bed2a4b0800000000000000
+      internalID: -5430533337713345548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023d7121925836150800000000000000
+      internalID: 5864677551210222368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a9bb81ba2cf760800000000000000
+      internalID: 7492910822079440023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30da4f08c63de9a0800000000000000
+      internalID: -6202240878941384644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2933be685c9e80800000000000000
+      internalID: -8170558391480406657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cf10640b7112370800000000000000
+      internalID: 8295938034449382461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f5c13d1ea5983b0800000000000000
+      internalID: -5509772743155097748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b513a89a8cfe0a0800000000000000
+      internalID: -6850035877713716399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93028c183edac5290800000000000000
+      internalID: -7900248453668134855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fa51aa8cf55ac60800000000000000
+      internalID: 7828768842705121090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_256
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf82293edc5559910800000000000000
+      internalID: 1843473965252749564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_257
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96e0afd280ffd00800000000000000
+      internalID: 1008533835116079562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_258
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b135925b8a8670800000000000000
+      internalID: 8541792830068209569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_259
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d88c645d249760800000000000000
+      internalID: 7463640323081163361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_260
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e47e5c45c30f40800000000000000
+      internalID: 5693611285719343842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_261
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46db6a219ac697740800000000000000
+      internalID: 5150267122293063012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_262
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab932ef2249f260800000000000000
+      internalID: 7131804258344221306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_263
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da9ef9989fefb740800000000000000
+      internalID: 5170114335942286036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270a9d125b3b362f0800000000000000
+      internalID: -980742703298273166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_265
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2617bcd5e84d2880800000000000000
+      internalID: -8634164758511675861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_266
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c32a6c2e27eb4110800000000000000
+      internalID: 1246343907397739462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_267
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972b4595651864680800000000000000
+      internalID: -8771181016391568775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_268
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9569f3d9e78f80800000000000000
+      internalID: -8104251907798361226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_269
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da71f7abc71b2f0800000000000000
+      internalID: -958848105215185602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_270
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d096ca96b2e386e0800000000000000
+      internalID: -1836374949128400680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_271
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ae882454de8150800000000000000
+      internalID: 5876868021687855308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_272
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e16734c3bc55100800000000000000
+      internalID: 96206426748624429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_273
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502da989761eb5110800000000000000
+      internalID: 1250841156583608837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_274
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75870f096632044e0800000000000000
+      internalID: -1999559311127185321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_275
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa94dc7cd719ace0800000000000000
+      internalID: -1393556373939905887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca7681f3f26dcd0800000000000000
+      internalID: -2533785792310432659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_277
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1885d4e6bfc1480800000000000000
+      internalID: -8926983910192545303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_278
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aea21fe7b836200800000000000000
+      internalID: 172134588098472449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_279
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153b0780f2cbc7e0800000000000000
+      internalID: -1744086092362336993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_280
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b62fb9d5257cca10800000000000000
+      internalID: 1931047145662523061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_281
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cbeaf55deb130b0800000000000000
+      internalID: -5750605425532814184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_282
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e81340d73656a530800000000000000
+      internalID: 3865872127861397736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_283
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0abc36cfd5fb4bf0800000000000000
+      internalID: -338907005483959798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_284
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3546d8ef2fd6cb0800000000000000
+      internalID: -4868968447009860679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_285
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87547b106f1b76010800000000000000
+      internalID: 1182109097356903800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_286
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11f7b16f435bea0800000000000000
+      internalID: -5857717508697550385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_287
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac4798c600e56b0800000000000000
+      internalID: -5305802844833264908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab20ffab4fbf66d0800000000000000
+      internalID: -2994964895382885459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_289
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f686bf44d6a26f0800000000000000
+      internalID: -708633848314302621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0ae4a42398eb00800000000000000
+      internalID: 858097514608986790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_291
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dab15d1444430b0800000000000000
+      internalID: -5749895774706356954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_292
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eca65694ab52e00800000000000000
+      internalID: 1019425715066162692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_293
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eb6967b5a35cf70800000000000000
+      internalID: 9206829177734872665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_294
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbccb24204723dc10800000000000000
+      internalID: 2077047009586171071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_295
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f682c85e73171190800000000000000
+      internalID: -7991897580369705229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_296
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc5b7aea2b55460800000000000000
+      internalID: 7229881240020962669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_297
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1079bda3191b3930800000000000000
+      internalID: 4123917456097505308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_298
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3786f900c1b38730800000000000000
+      internalID: 4000236332394121023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_299
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272953490636d6b40800000000000000
+      internalID: 5435109591760605810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_300
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1019f73760a080800000000000000
+      internalID: -9178222550481625997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_301
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9af470f1b50ade0800000000000000
+      internalID: -1323958101622150689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_302
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5963faa27cf2a500800000000000000
+      internalID: 406164485841316189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_303
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1304f9a4a88afb470800000000000000
+      internalID: 8412627940862279729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_304
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f399637068cda00800000000000000
+      internalID: 782647800794529683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_305
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5da5cfa41af82a0800000000000000
+      internalID: -6732985574462138957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_306
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5bbd47ea017d20800000000000000
+      internalID: 3274410392632908906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_307
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a522e00c4f25d27b0800000000000000
+      internalID: -5247446779669110182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_308
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fd5d88c35cf760800000000000000
+      internalID: 7492956000867972282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_309
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922395d4e32ad8190800000000000000
+      internalID: -7958526578024435159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_310
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0125ed358a21c0800000000000000
+      internalID: -4527659974483964636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bebacca37611dbb7004be7363f74dfb9_311
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb076a9abd5af690800000000000000
+      internalID: -7567633167806952500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
