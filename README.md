@@ -1,6 +1,6 @@
-# CPS 731 Project
+# Scholar Village
 
-Scholar Village
+Running Instruction
 
 under react-ui folder run command "npm install"
 under react-ui folder run command "npm i bootstrap"
