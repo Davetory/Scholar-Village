@@ -2,7 +2,6 @@
 
 An interactive learning environment constructed with a gameplay structure, web-hosting servers and MVC model
 
-**Tested by multiple users -> Increased UPTIME by 45% with Amazon ELB load balancing and Cloudfare CDN. Optimized RUNTIME by 60% of the original build by continuously storing/retrieving large media files on Amazon S3 / adopting SGD (Stochastic Gradiant Descent) to periodically updating model parameters learning from a random subset of user feedback.
 
 --Running Instruction
 
